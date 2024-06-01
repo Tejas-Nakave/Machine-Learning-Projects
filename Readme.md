@@ -1,3 +1,4 @@
+![image](https://github.com/Tejas-Nakave/Machine-Learning-Projects/assets/156461487/330f6d96-aa88-41d1-9751-6fcae69267c6)
 
 Welcome to the AI Projects Hub, curated by Tejas. This hub is a rich collection of AI projects, demonstrating a range of applications, techniques, and implementations in Python.
 
